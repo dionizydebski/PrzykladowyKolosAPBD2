@@ -25,4 +25,4 @@ dotnet ef migrations remove
   },
 
 
-  <InvariantGlobalization>false</InvariantGlobalization>
+<InvariantGlobalization>false</InvariantGlobalization>
