@@ -1,0 +1,6 @@
+@KacperKolos2_HostAddress = http://localhost:5077
+
+GET {{KacperKolos2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
